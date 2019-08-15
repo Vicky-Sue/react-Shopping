@@ -5,7 +5,7 @@ class MWLayout extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      selectedTab: 'redTab',
+      selectedTab: 'blueTab',
     };
   }
 
